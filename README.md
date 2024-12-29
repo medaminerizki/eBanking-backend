@@ -19,48 +19,48 @@ This project includes only the backend implementation of the E-Banking applicati
 1. **Customer Management**:
 
     - **Add a new customer**:
-      ![Add Customer](Screenshots/AddCustomer.png)
+      ![Add Customer](eBank_Backend/Screenshots/AddCustomer.png)
     - **View all customers**:
-      ![Customers](Screenshots/customers.png)
+      ![Customers](eBank_Backend/Screenshots/customers.png)
     - **View customer details by ID**:
-      ![Customer By ID](Screenshots/customerById.png)
+      ![Customer By ID](eBank_Backend/Screenshots/customerById.png)
     - **SQL table representation of customers**:
-      ![Customers SQL](Screenshots/customersSQL.png)
+      ![Customers SQL](eBank_Backend/Screenshots/customersSQL.png)
     - **Swagger documentation for customer-related endpoints**:
-      ![Customers Swagger](Screenshots/customersSwagger.png)
+      ![Customers Swagger](eBank_Backend/Screenshots/customersSwagger.png)
 
 2. **Account Management**:
 
     - **View all accounts**:
-      ![Accounts](Screenshots/accounts.png)
+      ![Accounts](eBank_Backend/Screenshots/accounts.png)
     - **View account details by ID**:
-      ![Account By ID](Screenshots/accountById.png)
+      ![Account By ID](eBank_Backend/Screenshots/accountById.png)
     - **Account details after a credit operation**:
-      ![Account After Credit](Screenshots/AccountAfterCredit.png)
+      ![Account After Credit](eBank_Backend/Screenshots/AccountAfterCredit.png)
     - **Account details after a debit operation**:
-      ![Account After Debit](Screenshots/AccountAfterDebit.png)
+      ![Account After Debit](eBank_Backend/Screenshots/AccountAfterDebit.png)
     - **Account details after a transfer operation**:
       ![Account After Transfer](Screenshots/accountAfterTransfer.png)
     - **SQL table representation of accounts**:
-      ![Accounts SQL](Screenshots/accountsSQL.png)
+      ![Accounts SQL](eBank_Backend/Screenshots/accountsSQL.png)
     - **Swagger documentation for account-related endpoints**:
-      ![Accounts Swagger](Screenshots/accountsSwagger.png)
+      ![Accounts Swagger](eBank_Backend/Screenshots/accountsSwagger.png)
 
 3. **Operations**:
 
     - **Paginated account operations**:
-      ![Operations By Account Page Size](Screenshots/operationsByAccPageSize.png)
+      ![Operations By Account Page Size](eBank_Backend/Screenshots/operationsByAccPageSize.png)
     - **SQL table representation of account operations**:
-      ![Operations SQL](Screenshots/operationsSQL.png)
+      ![Operations SQL](eBank_Backend/Screenshots/operationsSQL.png)
 
 4. **Testing**:
 
     - **Test for crediting an account**:
-      ![Test Credit](Screenshots/testCredit.png)
+      ![Test Credit](eBank_Backend/Screenshots/testCredit.png)
     - **Test for debiting an account**:
-      ![Test Debit](Screenshots/testDebit.png)
+      ![Test Debit](eBank_Backend/Screenshots/testDebit.png)
     - **Test for transferring money between accounts**:
-      ![Test Transfer](Screenshots/testTransfert.png)
+      ![Test Transfer](eBank_Backend/Screenshots/testTransfert.png)
 
 
 ## Technologies utilisées
